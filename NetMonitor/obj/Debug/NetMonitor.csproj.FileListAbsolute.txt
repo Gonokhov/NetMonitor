@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\proj's\NetMonitor\bin\Debug\NetMonitor.exe.config
+C:\Users\User\Desktop\proj's\NetMonitor\bin\Debug\NetMonitor.exe
+C:\Users\User\Desktop\proj's\NetMonitor\bin\Debug\NetMonitor.pdb
+C:\Users\User\Desktop\proj's\NetMonitor\obj\Debug\NetMonitor.csprojAssemblyReference.cache
+C:\Users\User\Desktop\proj's\NetMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\proj's\NetMonitor\obj\Debug\App.g.cs
+C:\Users\User\Desktop\proj's\NetMonitor\obj\Debug\NetMonitor_MarkupCompile.cache
+C:\Users\User\Desktop\proj's\NetMonitor\obj\Debug\NetMonitor_MarkupCompile.lref
+C:\Users\User\Desktop\proj's\NetMonitor\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\proj's\NetMonitor\obj\Debug\NetMonitor.g.resources
+C:\Users\User\Desktop\proj's\NetMonitor\obj\Debug\NetMonitor.Properties.Resources.resources
+C:\Users\User\Desktop\proj's\NetMonitor\obj\Debug\NetMonitor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\proj's\NetMonitor\obj\Debug\NetMonitor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proj's\NetMonitor\obj\Debug\NetMonitor.exe
+C:\Users\User\Desktop\proj's\NetMonitor\obj\Debug\NetMonitor.pdb
